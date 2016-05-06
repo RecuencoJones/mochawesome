@@ -1,5 +1,9 @@
 #Changelog
 
+###1.3.5
+
+- Fixed generated template issue with gulp. See [#38](https://github.com/adamgruber/mochawesome/issues/38)
+
 ###1.3.4
 - Added option to auto open report. Also fixed an issue with boolean options. See [#44](https://github.com/adamgruber/mochawesome/issues/44)
 
